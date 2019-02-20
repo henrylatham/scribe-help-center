@@ -34,7 +34,7 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Montserrat, sans-serif`, 
             marginTop: 0,
           }}
         >
@@ -63,9 +63,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © Scribe Services Ltd. {new Date().getFullYear()}, Understand yoursel better with
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.scribeapp.co">Scribe</a>
         </footer>
       </div>
     )
