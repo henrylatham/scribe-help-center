@@ -1,5 +1,6 @@
 ---
 title: Why isn't the app free?
+date: "2019-01-01T22:12:03.284Z"
 
 ---
 
