@@ -4,6 +4,8 @@ import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
+// https://twitter.com/${social.facebook}
+
 function Bio() {
   return (
     <StaticQuery
@@ -33,8 +35,8 @@ function Bio() {
             <p>
               Written by the <strong>{author}</strong> team.
               {` `}
-              <a href={`https://twitter.com/${social.facebook}`}>
-                You should join our community
+              <a href={`https://itunes.apple.com/gb/app/scribe-create-a-calm-mind/id1434284127?mt=12`}>
+                Download our MacOS app.
               </a>
             </p>
           </div>

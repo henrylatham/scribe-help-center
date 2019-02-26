@@ -3,7 +3,7 @@ module.exports = {
     title: `Scribe FAQs`,
     author: `Scribe`,
     description: `A place to find answers to pressing questions.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://help.scribeapp.co/`,
     social: {
       twitter: `scribeapp`,
       facebook: `scribeapp`,
@@ -62,7 +62,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#6B38FB`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },

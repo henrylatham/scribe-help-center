@@ -42,7 +42,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `#6B38FB`,
             }}
             to={`/`}
           >
@@ -68,9 +68,9 @@ class Layout extends React.Component {
             opacity: '0.54',
           }}
         >
-          © Scribe Services Ltd. {new Date().getFullYear()}, Understand yoursel better with
+          © Scribe Services Ltd. {new Date().getFullYear()} • Understand yourself better with the
           {` `}
-          <a href="https://www.scribeapp.co">Scribe</a>
+          <a href="https://itunes.apple.com/gb/app/scribe-create-a-calm-mind/id1434284127?mt=12">Scribe app</a>
         </footer>
       </div>
     )

@@ -5,6 +5,16 @@ date: "2019-01-01T22:12:03.284Z"
 ---
 
 
+**Not Willing to Pay?**
+
+After reading all of the very reasonable arguments we lay out below for justify
+charging for the app, you are still unhappy paying, please let us know why so we
+can work towards improving Scribe to serve you - our customers - better by completing
+[this 2-question survey](https://henrylatham.typeform.com/to/fnVIoW).
+
+---
+
+
 
 ### Apps Cost A LOT to build
 
@@ -142,3 +152,8 @@ Doesn't really work, does it?
 If you are *still* not convinced that you should just go ahead and pay for the app to help us achieve our dream of 1) helping create 76m calm minds and 2) enjoy an annual surf trip in Southern Europe as a team, then that's fine.
 
 Just head over to your Apple account and you can easily turn off auto-renew so that no more payments will be taken from your account and you can leave your little old journals sitting there alone, wasting away in the past.
+
+
+If you're still not convinced Scribe is worth paying for, please let us know *why* so we
+can work towards improving Scribe to serve you - our customers - better by completing
+[this 2-question survey](https://henrylatham.typeform.com/to/fnVIoW).
