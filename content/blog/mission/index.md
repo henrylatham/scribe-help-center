@@ -28,7 +28,7 @@ And we both realised that we would never be ready, that we could make all the ex
 
 And so Scribe was born.
 
-Born from a desperate need to do something else. To find purpose. To instill purpose & direction in others, so that they would not need to suffer, stuck, devoid of purpose, as we had found ourselves.
+Born from a desperate need to do something else. To find purpose. To instil purpose & direction in others, so that they would not need to suffer, stuck, devoid of purpose, as we had found ourselves.
 
 We tried a podcast, tried a blog, tried freelancing. And looking back, there was always a common thread only clear now:
 
