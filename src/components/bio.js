@@ -36,8 +36,13 @@ function Bio() {
               Written by the <strong>{author}</strong> team.
               {` `}
               <a href={`https://itunes.apple.com/gb/app/scribe-create-a-calm-mind/id1434284127?mt=12`}>
-                Download our MacOS app.
+                Download our MacOS app
               </a>
+                 {` `}or{` `}
+                <a href={`mailto:henry@scribeapp.co?Subject=Scribe%20Help%20Request`}>
+                   contact one of the founders
+                </a>
+                {` `}for help.
             </p>
           </div>
         )
