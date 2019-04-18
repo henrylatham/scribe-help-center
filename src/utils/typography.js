@@ -9,6 +9,11 @@ Wordpress2016.overrideThemeStyles = () => {
     a: {
       color: '#6B38FB',
     },
+    figcaption: {
+      opacity: 0.3,
+      fontSize: '10px',
+      padding: '4px 20px',
+    }
   }
 }
 

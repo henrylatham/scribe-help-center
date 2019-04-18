@@ -30,11 +30,13 @@ It denies you the true value of unfiltered introspection.
 Which is why one of the first features we decided to build was secure login and data encryption.
 
 
+
+<figure>
+	<img src="./data-privacy1.jpg" alt="Data Encryption">
+	<figcaption>As you write, words are saved, encrypted, then stored on our servers, only being unencrypted when accessed on your password-protected account</figcaption>
+</figure>
+
 ### Encrypting your Data
-
-
-![Data Privacy](./data-privacy.jpg)
-
 
 This means:
 
@@ -61,6 +63,11 @@ And that means you can write candidly without the fear of someone ever peering o
 
 So if you don’t want the guys at Evernote or Microsoft or Day One to read your journal, maybe it’s time to switch over to Scribe ;)
 
+
+<figure>
+	<img src="./data-privacy-2.jpg" alt="Data Encryption">
+	<figcaption>How your journal data looks once encrypted</figcaption>
+</figure>
 
 ### Why Cloud Storage?
 

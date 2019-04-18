@@ -1,12 +1,14 @@
 ---
 title: Scribe's Insights on Your Writing
-date: "2019-01-01T22:12:03.284Z"
+date: "2019-04-01T22:12:03.284Z"
 description: "One day in late 2017, I opened up my journaling tool - at that time a simple note-taking app - to write down the following:
 'I am miserable.'"
 
 ---
 
 ![Insights](./insights-emotions.jpeg)
+
+**Note: We have temporarily removed this feature as we work on a second version of it so we can make it a more effective tool for overcoming anxiety & understanding yourself better.**
 
 ### How it works & how it will improve your life
 
