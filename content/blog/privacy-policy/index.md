@@ -31,6 +31,8 @@ We have custom built our website, but run our servers on both Heroku (for our ma
 
 Regarding your data, we use a service called Mixpanel to allow us to anonymously track general user behaviour (such as the percentage of visitors who click a download button) in order to improve the website and understand how effective it is in conveying what our company does & how it provides value to our customers and potential customers.
 
+For any advertising campaigns we run through Facebook, we also anonymously track users who interact with that advertising campaign, through to downloading the app and whether they end up paying for it or not.
+
 
 # App Terms & Conditions
 
