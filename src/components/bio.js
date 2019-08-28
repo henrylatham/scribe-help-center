@@ -39,7 +39,7 @@ function Bio() {
                 Download our MacOS app
               </a>
                  {` `}or{` `}
-                <a href={`mailto:henry@scribeapp.co?Subject=Scribe%20Help%20Request`}>
+                <a href={`mailto:jonathan@scribeapp.co?Subject=Scribe%20Help%20Request`}>
                    contact one of the founders
                 </a>
                 {` `}for help.

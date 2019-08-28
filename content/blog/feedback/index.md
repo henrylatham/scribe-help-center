@@ -12,7 +12,7 @@ We believe that building a great product means building a product that has our c
 
 As such, we are always open to new ideas - however crazy they may sound - and believe that the best ideas come from gathering a lot of feedback from a diverse group of people.
 
-Therefore, if there's something on your wish list - that feature you would LOVE to see built by the Scribe team - please [get in touch](mailto:henry@scribeapp.co?Subject=Scribe%20Feature%20Wishlist) with Henry, our Head of Product, with:
+Therefore, if there's something on your wish list - that feature you would LOVE to see built by the Scribe team - please [get in touch](mailto:jonathan@scribeapp.co?Subject=Scribe%20Feature%20Wishlist) with Henry, our Head of Product, with:
 
 1. A brief description of what you would like built  
 2. Why you want that feature
@@ -28,4 +28,4 @@ If you're willing to help us out even more, we are offering **one month of Scrib
 2. What you like/dislike about it?
 3. How Scribe could be improved
 
-If you're interested, just send an email to [request a call & 1 month for free](mailto:henry@scribeapp.co?Subject=Scribe%20User%20Call)
+If you're interested, just send an email to [request a call & 1 month for free](mailto:jonathan@scribeapp.co?Subject=Scribe%20User%20Call)

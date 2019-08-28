@@ -8,7 +8,7 @@ date: "2018-12-15T22:12:03.284Z"
 **Your Feedback is Really Helpful**
 
 We are a small team working on a pretty new product, so any feedback on why you've subscribed is more valuable than you may imagine.
-If you have time, [just a quick email](mailto:henry@scribeapp.co?Subject=Scribe%20Unsubscribe%20Feedback) to let us know 1) why you subscribed in the first place & 2) why you have unsubscribed will really help us improve the product for other users.
+If you have time, [just a quick email](mailto:jonathan@scribeapp.co?Subject=Scribe%20Unsubscribe%20Feedback) to let us know 1) why you subscribed in the first place & 2) why you have unsubscribed will really help us improve the product for other users.
 
 ---
 
